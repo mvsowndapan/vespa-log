@@ -1,5 +1,5 @@
 {
-	"name": "vespa-log",
+	"name": "vespa-logger",
 	"version": "1.2.0",
 	"description": "simple console log",
 	"main": "index.js",
