@@ -1,6 +1,6 @@
 {
 	"name": "vespa-log",
-	"version": "1.0.2-0",
+	"version": "1.0.2",
 	"description": "simple console log",
 	"main": "index.js",
 	"scripts": {
